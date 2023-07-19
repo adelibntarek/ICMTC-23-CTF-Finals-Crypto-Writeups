@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "2b5e5899d4a20f3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "52120d7631a6d902",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ParameterInjectionII/writeup.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a333a21a2effd698",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e9eb53231d68996",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ad3bc3564443c90",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea2e28a7c0f4521e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3f5728ce305d7425",
+    "type": "split",
+    "children": [
+      {
+        "id": "2615a4de56957946",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f386377223b02757",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ParameterInjectionII/writeup.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "52120d7631a6d902",
+  "lastOpenFiles": [
+    "ParameterInjectionII/writeup.md",
+    "README.md"
+  ]
+}
